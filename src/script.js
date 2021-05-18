@@ -456,3 +456,4 @@ function init(){
   createPlanet();
   animate();
 }
+window.onload = start();
